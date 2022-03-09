@@ -1,4 +1,4 @@
-# ieee-ops-fall-21
+# Fall 2021 IEEE OPS
 
 In the Fall 2021 semester, I participated in the Arduino Open Project Series (OPS) hosted by my the Stony Brook University IEEE chapter. I created 4 projects involving Arduino Nano microcontroller unit boards. I wired the circuits based on existing schematics and wrote the code based on existing Arduino libraries and examples.
 
